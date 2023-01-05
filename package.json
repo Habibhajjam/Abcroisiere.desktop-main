@@ -1,0 +1,30 @@
+{
+  "name": "ab-test-automatisation",
+  "version": "1.0.0",
+  "description": "Test automatisé Ab croisiere",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open --env configFile=pr",
+    "cypress:runProd": "cypress run --env configFile=pr -b chrome"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true,
+    "stepDefinitions": "cypress/e2e/"
+  },
+  "keywords": [
+    "Test",
+    "Automatisé"
+  ],
+  "author": "Habib Hajjam",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/cypress-cucumber-preprocessor": "^4.0.1",
+    "cypress": "^10.9.0",
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "cypress-wait-until": "^1.7.2",
+    "cypress-xpath": "^1.6.2"
+  },
+  "dependencies": {
+    "@types/bluebird": "^3.5.36"
+  }
+}

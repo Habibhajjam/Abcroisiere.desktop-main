@@ -1,0 +1,1061 @@
+{
+  "pageCount": 1,
+  "totalResult": 5,
+  "items": [
+    {
+      "offerId": "1507264",
+      "minPrice": 65,
+      "comfort": "5*",
+      "coupDeCoeur": false,
+      "url": "/hotel-fram-camping-club-le-ruisseau-pays-basque-cote-atlantique-bidart-58898.html#1507264",
+      "obfuscatedUrl": "1F454FCB43481E44C14A4E1E424A4EC046494C1E4248C3411E48431EC1C346C2C2434AC31EC04AC6C21E414AC2CAC3431E424FCB431E4ACB484A49CB46CAC3431E41464B4AC1CB1E23252526251945CB4E48122A23202C21242B",
+      "zone": "France Cote Atlantique",
+      "city": "Bidart",
+      "libelleDestination": "Bidart (Pays Basque)",
+      "urlImage": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/bidart/piscine-fram-camping-club-le-ruisseau-pays-basque_527222_pghd.jpg",
+      "mediasResolutions": [
+        {
+          "imageUrlPetite": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/bidart/piscine-fram-camping-club-le-ruisseau-pays-basque_527252_pghd.jpg",
+          "imageUrlMoyenne": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/bidart/piscine-fram-camping-club-le-ruisseau-pays-basque_527252_pghd.jpg",
+          "imageUrlGrande": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/bidart/piscine-fram-camping-club-le-ruisseau-pays-basque_527252_pghd.jpg"
+        },
+        {
+          "imageUrlPetite": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/bidart/piscine-fram-camping-club-le-ruisseau-pays-basque_527251_pghd.jpg",
+          "imageUrlMoyenne": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/bidart/piscine-fram-camping-club-le-ruisseau-pays-basque_527251_pghd.jpg",
+          "imageUrlGrande": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/bidart/piscine-fram-camping-club-le-ruisseau-pays-basque_527251_pghd.jpg"
+        },
+        {
+          "imageUrlPetite": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/bidart/piscine-fram-camping-club-le-ruisseau-pays-basque_527245_pghd.jpg",
+          "imageUrlMoyenne": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/bidart/piscine-fram-camping-club-le-ruisseau-pays-basque_527245_pghd.jpg",
+          "imageUrlGrande": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/bidart/piscine-fram-camping-club-le-ruisseau-pays-basque_527245_pghd.jpg"
+        },
+        {
+          "imageUrlPetite": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/bidart/chambre-fram-camping-club-le-ruisseau-pays-basque_527240_pghd.jpg",
+          "imageUrlMoyenne": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/bidart/chambre-fram-camping-club-le-ruisseau-pays-basque_527240_pghd.jpg",
+          "imageUrlGrande": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/bidart/chambre-fram-camping-club-le-ruisseau-pays-basque_527240_pghd.jpg"
+        },
+        {
+          "imageUrlPetite": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/bidart/chambre-fram-camping-club-le-ruisseau-pays-basque_527253_pghd.jpg",
+          "imageUrlMoyenne": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/bidart/chambre-fram-camping-club-le-ruisseau-pays-basque_527253_pghd.jpg",
+          "imageUrlGrande": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/bidart/chambre-fram-camping-club-le-ruisseau-pays-basque_527253_pghd.jpg"
+        }
+      ],
+      "otherImages": [
+        "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/bidart/piscine-fram-camping-club-le-ruisseau-pays-basque_527252_pghd.jpg",
+        "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/bidart/piscine-fram-camping-club-le-ruisseau-pays-basque_527251_pghd.jpg",
+        "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/bidart/piscine-fram-camping-club-le-ruisseau-pays-basque_527245_pghd.jpg"
+      ],
+      "lesPlus": [
+        "Au cœur du Pays basque ",
+        "Activités pour toute la famille",
+        "Parc aquatique ",
+        "Plage de l'Uhabia à 3 km par la piste cyclable "
+      ],
+      "logement": {
+        "id": 58898,
+        "title": "Fram Camping Club Le Ruisseau Pays Basque",
+        "isVolInclus": false,
+        "titleWithoutVolInclus": "Fram Camping Club Le Ruisseau Pays Basque"
+      },
+      "reduction": {
+        "percent": 57
+      },
+      "tripAdvisorInformation": {
+        "numReviews": 1740,
+        "ratingImageUrl": "https://www.tripadvisor.fr/img/cdsi/img2/ratings/traveler/3.5-18065-5.svg",
+        "globalMark": 3.5
+      },
+      "information": "Camping",
+      "themeFlag": "FRAM_CAMPING",
+      "tanf": true,
+      "nombreDeJours": "7",
+      "nombreDeNuits": "6",
+      "caracteristiques": [
+        "Equipe d'animation",
+        "Accueil enfants"
+      ],
+      "dureeTxt": "de 6 à 21 nuits",
+      "isProduitFrance": false,
+      "alt": "Sejour sans transport - France Cote Atlantique Bidart",
+      "typePrix": "pers.",
+      "geoLocalisation": {
+        "longitude": -1.568073,
+        "latitude": 43.436585
+      },
+      "avisMaison": {},
+      "caracteristiquesEquipements": [
+        {
+          "caracteristiqueName": "Equipe d'animation",
+          "caracteristiqueImg": ""
+        },
+        {
+          "caracteristiqueName": "Accueil enfants",
+          "caracteristiqueImg": "activites-enfants.svg"
+        }
+      ]
+    },
+    {
+      "offerId": "1731778",
+      "minPrice": 125,
+      "comfort": "5*",
+      "coupDeCoeur": false,
+      "url": "/hotel-fram-camping-club-lou-pignada-landes-cote-atlantique-messanges-60052.html#1731778",
+      "obfuscatedUrl": "1F454FCB43481E44C14A4E1E424A4EC046494C1E4248C3411E484FC31EC0464C494A4B4A1E484A494B43C21E424FCB431E4ACB484A49CB46CAC3431E4E43C2C24A494C43C21E24202023211945CB4E48122A2C222A2C2C25",
+      "zone": "France Cote Atlantique",
+      "city": "Messanges",
+      "libelleDestination": "Messanges (Landes)",
+      "urlImage": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/messanges/piscine-fram-camping-club-lou-pignada-landes-_554109_pghd.jpg",
+      "mediasResolutions": [
+        {
+          "imageUrlPetite": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/messanges/piscine-fram-camping-club-lou-pignada-landes-_554090_pghd.jpg",
+          "imageUrlMoyenne": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/messanges/piscine-fram-camping-club-lou-pignada-landes-_554090_pghd.jpg",
+          "imageUrlGrande": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/messanges/piscine-fram-camping-club-lou-pignada-landes-_554090_pghd.jpg"
+        },
+        {
+          "imageUrlPetite": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/messanges/vue-panoramique-fram-camping-club-lou-pignada-landes-_554290_pghd.jpg",
+          "imageUrlMoyenne": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/messanges/vue-panoramique-fram-camping-club-lou-pignada-landes-_554290_pghd.jpg",
+          "imageUrlGrande": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/messanges/vue-panoramique-fram-camping-club-lou-pignada-landes-_554290_pghd.jpg"
+        },
+        {
+          "imageUrlPetite": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/messanges/plage-fram-camping-club-lou-pignada-landes-_554371_pghd.jpg",
+          "imageUrlMoyenne": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/messanges/plage-fram-camping-club-lou-pignada-landes-_554371_pghd.jpg",
+          "imageUrlGrande": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/messanges/plage-fram-camping-club-lou-pignada-landes-_554371_pghd.jpg"
+        },
+        {
+          "imageUrlPetite": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/messanges/plage-fram-camping-club-lou-pignada-landes-_554096_pghd.jpg",
+          "imageUrlMoyenne": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/messanges/plage-fram-camping-club-lou-pignada-landes-_554096_pghd.jpg",
+          "imageUrlGrande": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/messanges/plage-fram-camping-club-lou-pignada-landes-_554096_pghd.jpg"
+        },
+        {
+          "imageUrlPetite": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/messanges/piscine-fram-camping-club-lou-pignada-landes-_554093_pghd.jpg",
+          "imageUrlMoyenne": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/messanges/piscine-fram-camping-club-lou-pignada-landes-_554093_pghd.jpg",
+          "imageUrlGrande": "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/messanges/piscine-fram-camping-club-lou-pignada-landes-_554093_pghd.jpg"
+        }
+      ],
+      "otherImages": [
+        "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/messanges/piscine-fram-camping-club-lou-pignada-landes-_554090_pghd.jpg",
+        "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/messanges/vue-panoramique-fram-camping-club-lou-pignada-landes-_554290_pghd.jpg",
+        "https://static.service-voyages.com/photos/vacances-france-cote-atlantique/messanges/plage-fram-camping-club-lou-pignada-landes-_554371_pghd.jpg"
+      ],
+      "lesPlus": [
+        "Cadre naturel exceptionnel",
+        "Proximité avec les plages",
+        "Situation idéale pour la découverte des Landes "
+      ],
+      "logement": {
+        "id": 60052,
+        "title": "Fram Camping Club Lou Pignada Landes ",
+        "isVolInclus": false,
+        "titleWithoutVolInclus": "Fram Camping Club Lou Pignada Landes"
+      },
+      "tripAdvisorInformation": {
+        "numReviews": 758,
+        "ratingImageUrl": "https://www.tripadvisor.fr/img/cdsi/img2/ratings/traveler/3.5-18065-5.svg",
+        "globalMark": 3.5
+      },
+      "information": "Camping",
+      "themeFlag": "FRAM_CAMPING",
+      "tanf": true,
+      "nombreDeJours": "8",
+      "nombreDeNuits": "7",
+      "caracteristiques": [
+        "Accueil enfants"
+      ],
+      "dureeTxt": "de 4 à 21 nuits",
+      "isProduitFrance": false,
+      "alt": "Sejour sans transport - France Cote Atlantique Messanges",
+      "typePrix": "pers.",
+      "geoLocalisation": {
+        "longitude": -1.381885,
+        "latitude": 43.797359
+      },
+      "avisMaison": {},
+      "caracteristiquesEquipements": [
+        {
+          "caracteristiqueName": "Accueil enfants",
+          "caracteristiqueImg": "activites-enfants.svg"
+        }
+      ]
+    },
+    {
+      "offerId": "1518535",
+      "minPrice": 95,
+      "comfort": "4*",
+      "coupDeCoeur": false,
+      "url": "/hotel-fram-camping-club-les-pecheurs-cote-d-azur-provence-cote-d-azur-roquebrune-sur-argens-58896.html#1518535",
+      "obfuscatedUrl": "1F454FCB43481E44C14A4E1E424A4EC046494C1E4248C3411E4843C21EC043424543C3C1C21E424FCB431E4B1E4ACDC3C11EC0C14FC4434942431E424FCB431E4B1E4ACDC3C11EC14FCAC34341C1C349431EC2C3C11E4AC14C4349C21E23252526241945CB4E48122A232A25232223",
+      "zone": "France Provence-Cote d Azur",
+      "city": "Roquebrune Sur Argens",
+      "libelleDestination": "Roquebrune Sur Argens (Côte d'Azur)",
+      "urlImage": "https://static.service-voyages.com/photos/vacances-france-provence-cote-d-azur/roquebrune-sur-argens/piscine-fram-camping-club-les-pecheurs-cote-d-azur_528048_pghd.jpg",
+      "mediasResolutions": [
+        {
+          "imageUrlPetite": "https://static.service-voyages.com/photos/vacances-france-provence-cote-d-azur/roquebrune-sur-argens/piscine-fram-camping-club-les-pecheurs-cote-d-azur_528050_pghd.jpg",
+          "imageUrlMoyenne": "https://static.service-voyages.com/photos/vacances-france-provence-cote-d-azur/roquebrune-sur-argens/piscine-fram-camping-club-les-pecheurs-cote-d-azur_528050_pghd.jpg",
+          "imageUrlGrande": "https://static.service-voyages.com/photos/vacances-france-provence-cote-d-azur/roquebrune-sur-argens/piscine-fram-camping-club-les-pecheurs-cote-d-azur_528050_pghd.jpg"
+        },
+        {
+          "imageUrlPetite": "https://static.service-voyages.com/photos/vacances-france-provence-cote-d-azur/roquebrune-sur-argens/piscine-fram-camping-club-les-pecheurs-cote-d-azur_526449_pghd.jpg",
+          "imageUrlMoyenne": "https://static.service-voyages.com/photos/vacances-france-provence-cote-d-azur/roquebrune-sur-argens/piscine-fram-camping-club-les-pecheurs-cote-d-azur_526449_pghd.jpg",
+          "imageUrlGrande": "https://static.service-voyages.com/photos/vacances-france-provence-cote-d-azur/roquebrune-sur-argens/piscine-fram-camping-club-les-pecheurs-cote-d-azur_526449_pghd.jpg"
+        },
+        {
+          "imageUrlPetite": "https://static.service-voyages.com/photos/vacances-france-provence-cote-d-azur/roquebrune-sur-argens/piscine-fram-camping-club-les-pecheurs-cote-d-azur_526527_pghd.jpg",
+          "imageUrlMoyenne": "https://static.service-voyages.com/photos/vacances-france-provence-cote-d-azur/roquebrune-sur-argens/piscine-fram-camping-club-les-pecheurs-cote-d-azur_526527_pghd.jpg",
+          "imageUrlGrande": "https://static.service-voyages.com/photos/vacances-france-provence-cote-d-azur/roquebrune-sur-argens/piscine-fram-camping-club-les-pecheurs-cote-d-azur_526527_pghd.jpg"
+        },
+        {
+          "imageUrlPetite": "https://static.service-voyages.com/photos/vacances-france-provence-cote-d-azur/roquebrune-sur-argens/plage-fram-camping-club-les-pecheurs-cote-d-azur_526447_pghd.jpg",
+          "imageUrlMoyenne": "https://static.service-voyages.com/photos/vacances-france-provence-cote-d-azur/roquebrune-sur-argens/plage-fram-camping-club-les-pecheurs-cote-d-azur_526447_pghd.jpg",
+          "imageUrlGrande": "https://static.service-voyages.com/photos/vacances-france-provence-cote-d-azur/roquebrune-sur-argens/plage-fram-camping-club-les-pecheurs-cote-d-azur_526447_pghd.jpg"
+        },
+        {
+          "imageUrlPetite": "https://static.service-voyages.com/photos/vacances-france-provence-cote-d-azur/roquebrune-sur-argens/plage-fram-camping-club-les-pecheurs-cote-d-azur_526528_pghd.jpg",
+          "imageUrlMoyenne": "https://static.service-voyages.com/photos/vacances-france-provence-cote-d-azur/roquebrune-sur-argens/plage-fram-camping-club-les-pecheurs-cote-d-azur_526528_pghd.jpg",
+          "imageUrlGrande": "https://static.service-voyages.com/photos/vacances-france-provence-cote-d-azur/roquebrune-sur-argens/plage-fram-camping-club-les-pecheurs-cote-d-azur_526528_pghd.jpg"
+        }
+      ],
+      "otherImages": [
+        "https://static.service-voyages.com/photos/vacances-france-provence-cote-d-azur/roquebrune-sur-argens/piscine-fram-camping-club-les-pecheurs-cote-d-azur_528050_pghd.jpg",
+        "https://static.service-voyages.com/photos/vacances-france-provence-cote-d-azur/roquebrune-sur-argens/piscine-fram-camping-club-les-pecheurs-cote-d-azur_526449_pghd.jpg",
+        "https://static.service-voyages.com/photos/vacances-france-provence-cote-d-azur/roquebrune-sur-argens/piscine-fram-camping-club-les-pecheurs-cote-d-azur_526527_pghd.jpg"
+      ],
+      "lesPlus": [
+        "Camping familial",
+        "Lac d'Aréna à 100 m",
+        "Situation idéale"
+      ],
+      "logement": {
+        "id": 58896,
+        "title": "Fram Camping Club Les Pêcheurs Côte d'Azur",
+        "isVolInclus": false,
+        "titleWithoutVolInclus": "Fram Camping Club Les Pêcheurs Côte d'Azur"
+      },
+      "reduction": {
+        "percent": 58
+      },
+      "tripAdvisorInformation": {
+        "numReviews": 275,
+        "ratingImageUrl": "https://www.tripadvisor.fr/img/cdsi/img2/ratings/traveler/4.0-18065-5.svg",
+        "globalMark": 4.0
+      },
+      "information": "Camping",
+      "themeFlag": "FRAM_CAMPING",
+      "tanf": true,
+      "nombreDeJours": "7",
+      "nombreDeNuits": "6",
+      "caracteristiques": [
+        "Equipe d'animation",
+        "Accueil enfants"
+      ],
+      "dureeTxt": "de 6 à 21 nuits",
+      "isProduitFrance": false,
+      "alt": "Sejour sans transport - France Provence-Cote d Azur Roquebrune Sur Argens",
+      "typePrix": "pers.",
+      "geoLocalisation": {
+        "longitude": 6.633778,
+        "latitude": 43.450888
+      },
+      "avisMaison": {},
+      "caracteristiquesEquipements": [
+        {
+          "caracteristiqueName": "Equipe d'animation",
+          "caracteristiqueImg": ""
+        },
+        {
+          "caracteristiqueName": "Accueil enfants",
+          "caracteristiqueImg": "activites-enfants.svg"
+        }
+      ]
+    },
+    {
+      "offerId": "1465996",
+      "minPrice": 100,
+      "comfort": "5*",
+      "coupDeCoeur": false,
+      "url": "/hotel-fram-camping-club-bois-fleuri-occitanie-languedoc-roussillon-argeles-sur-mer-58799.html#1465996",
+      "obfuscatedUrl": "1F454FCB43481E44C14A4E1E424A4EC046494C1E4248C3411E414F46C21E444843C3C1461E4F424246CB4A4946431E484A494CC3434B4F421EC14FC3C2C24648484F491E4AC14C434843C21EC2C3C11E4E43C11E23252C26261945CB4E48122A2B2423262624",
+      "zone": "France Languedoc-Roussillon",
+      "city": "Argelès-sur-Mer",
+      "libelleDestination": "Argelès-sur-Mer (Languedoc-Roussillon)",
+      "urlImage": "https://static.service-voyages.com/photos/vacances-france-languedoc-roussillon/argeles-sur-mer/piscine-fram-camping-club-bois-fleuri-occitanie_525502_pghd.jpg",
+      "mediasResolutions": [
+        {
+          "imageUrlPetite": "https://static.service-voyages.com/photos/vacances-france-languedoc-roussillon/argeles-sur-mer/piscine-fram-camping-club-bois-fleuri-occitanie_525483_pghd.jpg",
+          "imageUrlMoyenne": "https://static.service-voyages.com/photos/vacances-france-languedoc-roussillon/argeles-sur-mer/piscine-fram-camping-club-bois-fleuri-occitanie_525483_pghd.jpg",
+          "imageUrlGrande": "https://static.service-voyages.com/photos/vacances-france-languedoc-roussillon/argeles-sur-mer/piscine-fram-camping-club-bois-fleuri-occitanie_525483_pghd.jpg"
+        },
+        {
+          "imageUrlPetite": "https://static.service-voyages.com/photos/vacances-france-languedoc-roussillon/argeles-sur-mer/piscine-fram-camping-club-bois-fleuri-occitanie_525511_pghd.jpg",
+          "imageUrlMoyenne": "https://static.service-voyages.com/photos/vacances-france-languedoc-roussillon/argeles-sur-mer/piscine-fram-camping-club-bois-fleuri-occitanie_525511_pghd.jpg",
+          "imageUrlGrande": "https://static.service-voyages.com/photos/vacances-france-languedoc-roussillon/argeles-sur-mer/piscine-fram-camping-club-bois-fleuri-occitanie_525511_pghd.jpg"
+        },
+        {
+          "imageUrlPetite": "https://static.service-voyages.com/photos/vacances-france-languedoc-roussillon/argeles-sur-mer/piscine-fram-camping-club-bois-fleuri-occitanie_525484_pghd.jpg",
+          "imageUrlMoyenne": "https://static.service-voyages.com/photos/vacances-france-languedoc-roussillon/argeles-sur-mer/piscine-fram-camping-club-bois-fleuri-occitanie_525484_pghd.jpg",
+          "imageUrlGrande": "https://static.service-voyages.com/photos/vacances-france-languedoc-roussillon/argeles-sur-mer/piscine-fram-camping-club-bois-fleuri-occitanie_525484_pghd.jpg"
+        },
+        {
+          "imageUrlPetite": "https://static.service-voyages.com/photos/vacances-france-languedoc-roussillon/argeles-sur-mer/piscine-fram-camping-club-bois-fleuri-occitanie_525510_pghd.jpg",
+          "imageUrlMoyenne": "https://static.service-voyages.com/photos/vacances-france-languedoc-roussillon/argeles-sur-mer/piscine-fram-camping-club-bois-fleuri-occitanie_525510_pghd.jpg",
+          "imageUrlGrande": "https://static.service-voyages.com/photos/vacances-france-languedoc-roussillon/argeles-sur-mer/piscine-fram-camping-club-bois-fleuri-occitanie_525510_pghd.jpg"
+        },
+        {
+          "imageUrlPetite": "https://static.service-voyages.com/photos/vacances-france-languedoc-roussillon/argeles-sur-mer/chambre-fram-camping-club-bois-fleuri-occitanie_525623_pghd.jpg",
+          "imageUrlMoyenne": "https://static.service-voyages.com/photos/vacances-france-languedoc-roussillon/argeles-sur-mer/chambre-fram-camping-club-bois-fleuri-occitanie_525623_pghd.jpg",
+          "imageUrlGrande": "https://static.service-voyages.com/photos/vacances-france-languedoc-roussillon/argeles-sur-mer/chambre-fram-camping-club-bois-fleuri-occitanie_525623_pghd.jpg"
+        }
+      ],
+      "otherImages": [
+        "https://static.service-voyages.com/photos/vacances-france-languedoc-roussillon/argeles-sur-mer/piscine-fram-camping-club-bois-fleuri-occitanie_525483_pghd.jpg",
+        "https://static.service-voyages.com/photos/vacances-france-languedoc-roussillon/argeles-sur-mer/piscine-fram-camping-club-bois-fleuri-occitanie_525511_pghd.jpg",
+        "https://static.service-voyages.com/photos/vacances-france-languedoc-roussillon/argeles-sur-mer/piscine-fram-camping-club-bois-fleuri-occitanie_525484_pghd.jpg"
+      ],
+      "lesPlus": [
+        "Emplacement idéal ",
+        "Pour toute la famille ",
+        "Son espace piscine et aquapark"
+      ],
+      "logement": {
+        "id": 58799,
+        "title": "Fram Camping Club Bois Fleuri Occitanie",
+        "isVolInclus": false,
+        "titleWithoutVolInclus": "Fram Camping Club Bois Fleuri Occitanie"
+      },
+      "reduction": {
+        "percent": 57
+      },
+      "tripAdvisorInformation": {
+        "numReviews": 1371,
+        "ratingImageUrl": "https://www.tripadvisor.fr/img/cdsi/img2/ratings/traveler/4.0-18065-5.svg",
+        "globalMark": 4.0
+      },
+      "information": "Camping",
+      "themeFlag": "FRAM_CAMPING",
+      "tanf": true,
+      "nombreDeJours": "8",
+      "nombreDeNuits": "7",
+      "caracteristiques": [
+        "Equipe d'animation",
+        "Accueil enfants"
+      ],
+      "dureeTxt": "de 7 à 21 nuits",
+      "isProduitFrance": false,
+      "alt": "Sejour sans transport - France Languedoc-Roussillon Argelès-sur-Mer",
+      "typePrix": "pers.",
+      "geoLocalisation": {
+        "longitude": 2.994729,
+        "latitude": 42.534819
+      },
+      "avisMaison": {},
+      "caracteristiquesEquipements": [
+        {
+          "caracteristiqueName": "Equipe d'animation",
+          "caracteristiqueImg": ""
+        },
+        {
+          "caracteristiqueName": "Accueil enfants",
+          "caracteristiqueImg": "activites-enfants.svg"
+        }
+      ]
+    },
+    {
+      "offerId": "1515677",
+      "minPrice": 95,
+      "comfort": "5*",
+      "coupDeCoeur": false,
+      "url": "/hotel-fram-camping-club-domaine-de-bel-air-bretagne-bretagne-landudec-58879.html#1515677",
+      "obfuscatedUrl": "1F454FCB43481E44C14A4E1E424A4EC046494C1E4248C3411E4B4F4E4A4649431E4B431E4143481E4A46C11E41C143CB4A4C49431E41C143CB4A4C49431E484A494BC34B43421E2325252C261945CB4E48122A232A23242C2C",
+      "zone": "France Bretagne",
+      "city": "Landudec",
+      "libelleDestination": "Landudec (Finistère)",
+      "urlImage": "https://static.service-voyages.com/photos/vacances-france-bretagne/landudec/piscine-fram-camping-club-domaine-de-bel-air-bretagne_528796_pghd.jpg",
+      "mediasResolutions": [
+        {
+          "imageUrlPetite": "https://static.service-voyages.com/photos/vacances-france-bretagne/landudec/piscine-fram-camping-club-domaine-de-bel-air-bretagne_528798_pghd.jpg",
+          "imageUrlMoyenne": "https://static.service-voyages.com/photos/vacances-france-bretagne/landudec/piscine-fram-camping-club-domaine-de-bel-air-bretagne_528798_pghd.jpg",
+          "imageUrlGrande": "https://static.service-voyages.com/photos/vacances-france-bretagne/landudec/piscine-fram-camping-club-domaine-de-bel-air-bretagne_528798_pghd.jpg"
+        },
+        {
+          "imageUrlPetite": "https://static.service-voyages.com/photos/vacances-france-bretagne/landudec/piscine-fram-camping-club-domaine-de-bel-air-bretagne_554775_pghd.jpg",
+          "imageUrlMoyenne": "https://static.service-voyages.com/photos/vacances-france-bretagne/landudec/piscine-fram-camping-club-domaine-de-bel-air-bretagne_554775_pghd.jpg",
+          "imageUrlGrande": "https://static.service-voyages.com/photos/vacances-france-bretagne/landudec/piscine-fram-camping-club-domaine-de-bel-air-bretagne_554775_pghd.jpg"
+        },
+        {
+          "imageUrlPetite": "https://static.service-voyages.com/photos/vacances-france-bretagne/landudec/piscine-fram-camping-club-domaine-de-bel-air-bretagne_526567_pghd.jpg",
+          "imageUrlMoyenne": "https://static.service-voyages.com/photos/vacances-france-bretagne/landudec/piscine-fram-camping-club-domaine-de-bel-air-bretagne_526567_pghd.jpg",
+          "imageUrlGrande": "https://static.service-voyages.com/photos/vacances-france-bretagne/landudec/piscine-fram-camping-club-domaine-de-bel-air-bretagne_526567_pghd.jpg"
+        },
+        {
+          "imageUrlPetite": "https://static.service-voyages.com/photos/vacances-france-bretagne/landudec/piscine-fram-camping-club-domaine-de-bel-air-bretagne_528775_pghd.jpg",
+          "imageUrlMoyenne": "https://static.service-voyages.com/photos/vacances-france-bretagne/landudec/piscine-fram-camping-club-domaine-de-bel-air-bretagne_528775_pghd.jpg",
+          "imageUrlGrande": "https://static.service-voyages.com/photos/vacances-france-bretagne/landudec/piscine-fram-camping-club-domaine-de-bel-air-bretagne_528775_pghd.jpg"
+        },
+        {
+          "imageUrlPetite": "https://static.service-voyages.com/photos/vacances-france-bretagne/landudec/piscine-fram-camping-club-domaine-de-bel-air-bretagne_554772_pghd.jpg",
+          "imageUrlMoyenne": "https://static.service-voyages.com/photos/vacances-france-bretagne/landudec/piscine-fram-camping-club-domaine-de-bel-air-bretagne_554772_pghd.jpg",
+          "imageUrlGrande": "https://static.service-voyages.com/photos/vacances-france-bretagne/landudec/piscine-fram-camping-club-domaine-de-bel-air-bretagne_554772_pghd.jpg"
+        }
+      ],
+      "otherImages": [
+        "https://static.service-voyages.com/photos/vacances-france-bretagne/landudec/piscine-fram-camping-club-domaine-de-bel-air-bretagne_528798_pghd.jpg",
+        "https://static.service-voyages.com/photos/vacances-france-bretagne/landudec/piscine-fram-camping-club-domaine-de-bel-air-bretagne_554775_pghd.jpg",
+        "https://static.service-voyages.com/photos/vacances-france-bretagne/landudec/piscine-fram-camping-club-domaine-de-bel-air-bretagne_526567_pghd.jpg"
+      ],
+      "lesPlus": [
+        "Cadre naturel exceptionnel",
+        "Parc aquatique de 1500 m² et parc de loisirs",
+        "Situation idéale "
+      ],
+      "logement": {
+        "id": 58879,
+        "title": "Fram Camping Club Domaine de Bel Air Bretagne",
+        "isVolInclus": false,
+        "titleWithoutVolInclus": "Fram Camping Club Domaine de Bel Air Bretagne"
+      },
+      "reduction": {
+        "percent": 61
+      },
+      "tripAdvisorInformation": {
+        "numReviews": 111,
+        "ratingImageUrl": "https://www.tripadvisor.fr/img/cdsi/img2/ratings/traveler/4.5-18065-5.svg",
+        "globalMark": 4.5
+      },
+      "information": "Camping",
+      "themeFlag": "FRAM_CAMPING",
+      "tanf": true,
+      "nombreDeJours": "7",
+      "nombreDeNuits": "6",
+      "caracteristiques": [
+        "Equipe d'animation",
+        "Accueil enfants"
+      ],
+      "dureeTxt": "de 6 à 21 nuits",
+      "isProduitFrance": false,
+      "alt": "Sejour sans transport - France Bretagne Landudec",
+      "typePrix": "pers.",
+      "geoLocalisation": {
+        "longitude": -4.35447,
+        "latitude": 47.992011
+      },
+      "avisMaison": {},
+      "caracteristiquesEquipements": [
+        {
+          "caracteristiqueName": "Equipe d'animation",
+          "caracteristiqueImg": ""
+        },
+        {
+          "caracteristiqueName": "Accueil enfants",
+          "caracteristiqueImg": "activites-enfants.svg"
+        }
+      ]
+    }
+  ],
+  "priceMin": 65,
+  "destination": {
+    "type": "ZONE",
+    "name": "France",
+    "id": 2031,
+    "level": 1
+  },
+  "searchFilters": {
+    "filters": [
+      {
+        "title": "Formules",
+        "limitDisplayed": 5,
+        "queryStringKey": "pensionTypes",
+        "filterType": "SelectBoxType",
+        "value": {
+          "selectItems": [
+            {
+              "ids": [
+                "1"
+              ],
+              "label": "All inclusive",
+              "selected": false
+            },
+            {
+              "ids": [
+                "6"
+              ],
+              "label": "Pension complète",
+              "selected": false
+            },
+            {
+              "ids": [
+                "2"
+              ],
+              "label": "Demi pension",
+              "selected": false
+            },
+            {
+              "ids": [
+                "4"
+              ],
+              "label": "Petit dėjeuner",
+              "selected": false
+            },
+            {
+              "ids": [
+                "7"
+              ],
+              "label": "Aucun repas",
+              "selected": false
+            }
+          ]
+        },
+        "order": 1
+      },
+      {
+        "title": "Choisir la région",
+        "limitDisplayed": 5,
+        "queryStringKey": "destinationZones",
+        "filterType": "ZoneHierarchieType",
+        "value": {
+          "selectItems": [
+            {
+              "zoneName": "Alpes",
+              "id": "2174",
+              "selected": false,
+              "zoneChildren": [
+                {
+                  "zoneName": "Alpes du Nord",
+                  "id": "2651",
+                  "selected": false,
+                  "zoneChildren": [],
+                  "bold": false
+                },
+                {
+                  "zoneName": "Alpes du Sud",
+                  "id": "2652",
+                  "selected": false,
+                  "zoneChildren": [],
+                  "bold": false
+                }
+              ],
+              "bold": true
+            },
+            {
+              "zoneName": "Andorre",
+              "id": "2041",
+              "selected": false,
+              "zoneChildren": [],
+              "bold": true
+            },
+            {
+              "zoneName": "Auvergne",
+              "id": "2042",
+              "selected": false,
+              "zoneChildren": [],
+              "bold": true
+            },
+            {
+              "zoneName": "Bretagne",
+              "id": "2053",
+              "selected": false,
+              "zoneChildren": [
+                {
+                  "zoneName": "Côtes d'Armor",
+                  "id": "3451",
+                  "selected": false,
+                  "zoneChildren": [],
+                  "bold": false
+                },
+                {
+                  "zoneName": "Finistère",
+                  "id": "3448",
+                  "selected": false,
+                  "zoneChildren": [],
+                  "bold": false
+                },
+                {
+                  "zoneName": "Ille et Vilaine",
+                  "id": "3450",
+                  "selected": false,
+                  "zoneChildren": [],
+                  "bold": false
+                },
+                {
+                  "zoneName": "Morbihan",
+                  "id": "3449",
+                  "selected": false,
+                  "zoneChildren": [],
+                  "bold": false
+                }
+              ],
+              "bold": true
+            },
+            {
+              "zoneName": "Corse",
+              "id": "2071",
+              "selected": false,
+              "zoneChildren": [
+                {
+                  "zoneName": "Corse-du-Sud",
+                  "id": "2072",
+                  "selected": false,
+                  "zoneChildren": [],
+                  "bold": false
+                },
+                {
+                  "zoneName": "Haute-Corse",
+                  "id": "2076",
+                  "selected": false,
+                  "zoneChildren": [],
+                  "bold": false
+                }
+              ],
+              "bold": true
+            },
+            {
+              "zoneName": "Côte d'Azur",
+              "id": "2153",
+              "selected": false,
+              "zoneChildren": [
+                {
+                  "zoneName": "Cannes",
+                  "id": "2165",
+                  "selected": false,
+                  "zoneChildren": [],
+                  "bold": false
+                },
+                {
+                  "zoneName": "Fréjus",
+                  "id": "2166",
+                  "selected": false,
+                  "zoneChildren": [],
+                  "bold": false
+                },
+                {
+                  "zoneName": "Hyères",
+                  "id": "2167",
+                  "selected": false,
+                  "zoneChildren": [],
+                  "bold": false
+                },
+                {
+                  "zoneName": "Monaco",
+                  "id": "2155",
+                  "selected": false,
+                  "zoneChildren": [],
+                  "bold": false
+                },
+                {
+                  "zoneName": "Nice",
+                  "id": "2156",
+                  "selected": false,
+                  "zoneChildren": [],
+                  "bold": false
+                },
+                {
+                  "zoneName": "Saint Tropez",
+                  "id": "2169",
+                  "selected": false,
+                  "zoneChildren": [],
+                  "bold": false
+                },
+                {
+                  "zoneName": "Toulon",
+                  "id": "2170",
+                  "selected": false,
+                  "zoneChildren": [],
+                  "bold": false
+                }
+              ],
+              "bold": true
+            },
+            {
+              "zoneName": "Gorges du Verdon",
+              "id": "2150",
+              "selected": false,
+              "zoneChildren": [],
+              "bold": true
+            },
+            {
+              "zoneName": "Ile de France",
+              "id": "2102",
+              "selected": false,
+              "zoneChildren": [],
+              "bold": true
+            },
+            {
+              "zoneName": "Jura",
+              "id": "2100",
+              "selected": false,
+              "zoneChildren": [],
+              "bold": true
+            },
+            {
+              "zoneName": "Nord-Pas-de-Calais",
+              "id": "2126",
+              "selected": false,
+              "zoneChildren": [],
+              "bold": true
+            },
+            {
+              "zoneName": "Normandie",
+              "id": "2137",
+              "selected": false,
+              "zoneChildren": [
+                {
+                  "zoneName": "Manche",
+                  "id": "2140",
+                  "selected": false,
+                  "zoneChildren": [],
+                  "bold": false
+                }
+              ],
+              "bold": true
+            },
+            {
+              "zoneName": "Occitanie",
+              "id": "3468",
+              "selected": false,
+              "zoneChildren": [
+                {
+                  "zoneName": "Languedoc-Roussillon",
+                  "id": "2103",
+                  "selected": false,
+                  "zoneChildren": [],
+                  "bold": false
+                }
+              ],
+              "bold": true
+            },
+            {
+              "zoneName": "Pays de la Loire - Vendée",
+              "id": "3453",
+              "selected": false,
+              "zoneChildren": [
+                {
+                  "zoneName": "Pays de la Loire",
+                  "id": "3455",
+                  "selected": false,
+                  "zoneChildren": [],
+                  "bold": false
+                },
+                {
+                  "zoneName": "Vendée",
+                  "id": "2089",
+                  "selected": false,
+                  "zoneChildren": [],
+                  "bold": false
+                }
+              ],
+              "bold": true
+            },
+            {
+              "zoneName": "Picardie",
+              "id": "2147",
+              "selected": false,
+              "zoneChildren": [],
+              "bold": true
+            },
+            {
+              "zoneName": "Poitou-Charentes",
+              "id": "3458",
+              "selected": false,
+              "zoneChildren": [],
+              "bold": true
+            },
+            {
+              "zoneName": "Provence",
+              "id": "2157",
+              "selected": false,
+              "zoneChildren": [
+                {
+                  "zoneName": "Camargue",
+                  "id": "2104",
+                  "selected": false,
+                  "zoneChildren": [],
+                  "bold": false
+                },
+                {
+                  "zoneName": "Luberon",
+                  "id": "3471",
+                  "selected": false,
+                  "zoneChildren": [],
+                  "bold": false
+                }
+              ],
+              "bold": true
+            },
+            {
+              "zoneName": "Pyrénées",
+              "id": "2653",
+              "selected": false,
+              "zoneChildren": [
+                {
+                  "zoneName": "Hautes-Pyrénées",
+                  "id": "2660",
+                  "selected": false,
+                  "zoneChildren": [],
+                  "bold": false
+                }
+              ],
+              "bold": true
+            },
+            {
+              "zoneName": "Sud Ouest",
+              "id": "3460",
+              "selected": false,
+              "zoneChildren": [
+                {
+                  "zoneName": "Aquitaine",
+                  "id": "3461",
+                  "selected": false,
+                  "zoneChildren": [],
+                  "bold": false
+                }
+              ],
+              "bold": true
+            }
+          ]
+        },
+        "order": 2
+      },
+      {
+        "title": "Classifications",
+        "limitDisplayed": 5,
+        "queryStringKey": "hotelCategories",
+        "filterType": "SelectButtonType",
+        "value": {
+          "selectItems": [
+            {
+              "ids": [
+                "1"
+              ],
+              "label": "1*",
+              "selected": false
+            },
+            {
+              "ids": [
+                "2"
+              ],
+              "label": "2*",
+              "selected": false
+            },
+            {
+              "ids": [
+                "3"
+              ],
+              "label": "3*",
+              "selected": false
+            },
+            {
+              "ids": [
+                "4"
+              ],
+              "label": "4*",
+              "selected": false
+            },
+            {
+              "ids": [
+                "5"
+              ],
+              "label": "5*",
+              "selected": false
+            }
+          ]
+        },
+        "order": 3
+      },
+      {
+        "title": "Budget par personne",
+        "limitDisplayed": 5,
+        "queryStringKey": "priceRange",
+        "filterType": "RangeType",
+        "value": {
+          "from": 65,
+          "to": 150
+        },
+        "order": 4
+      },
+      {
+        "title": "Accès plage",
+        "limitDisplayed": 2,
+        "queryStringKey": "caracteristiqueIds",
+        "filterType": "SelectBoxType",
+        "value": {
+          "selectItems": [
+            {
+              "ids": [
+                "3"
+              ],
+              "label": "A proximité",
+              "productsCount": 1,
+              "selected": false
+            }
+          ]
+        },
+        "order": 5
+      },
+      {
+        "title": "Loisirs / animations",
+        "limitDisplayed": 5,
+        "queryStringKey": "caracteristiqueIds",
+        "filterType": "SelectBoxType",
+        "value": {
+          "selectItems": [
+            {
+              "ids": [
+                "40"
+              ],
+              "label": "Piscine intérieure",
+              "productsCount": 3,
+              "selected": false
+            },
+            {
+              "ids": [
+                "39"
+              ],
+              "label": "Piscine extérieure chauffée",
+              "productsCount": 5,
+              "selected": false
+            },
+            {
+              "ids": [
+                "38"
+              ],
+              "label": "Piscine extérieure non chauffée",
+              "productsCount": 2,
+              "selected": false
+            },
+            {
+              "ids": [
+                "36"
+              ],
+              "label": "Espace bien être",
+              "productsCount": 2,
+              "selected": false
+            },
+            {
+              "ids": [
+                "35"
+              ],
+              "label": "Animation francophone",
+              "productsCount": 4,
+              "selected": false
+            },
+            {
+              "ids": [
+                "32"
+              ],
+              "label": "Equipe d'animation",
+              "productsCount": 4,
+              "selected": false
+            },
+            {
+              "ids": [
+                "25"
+              ],
+              "label": "Club de plongée a proximité",
+              "productsCount": 1,
+              "selected": false
+            }
+          ]
+        },
+        "order": 6
+      },
+      {
+        "title": "Equipements",
+        "limitDisplayed": 5,
+        "queryStringKey": "caracteristiqueIds",
+        "filterType": "SelectBoxType",
+        "value": {
+          "selectItems": [
+            {
+              "ids": [
+                "13"
+              ],
+              "label": "Chambres climatisées",
+              "productsCount": 2,
+              "selected": false
+            },
+            {
+              "ids": [
+                "10"
+              ],
+              "label": "Mobilité réduite",
+              "productsCount": 2,
+              "selected": false
+            }
+          ]
+        },
+        "order": 7
+      },
+      {
+        "title": "Enfants / ados",
+        "limitDisplayed": 5,
+        "queryStringKey": "caracteristiqueIds",
+        "filterType": "SelectBoxType",
+        "value": {
+          "selectItems": [
+            {
+              "ids": [
+                "9"
+              ],
+              "label": "Possibilité de babysitting",
+              "productsCount": 1,
+              "selected": false
+            },
+            {
+              "ids": [
+                "7"
+              ],
+              "label": "Mini club",
+              "productsCount": 5,
+              "selected": false
+            },
+            {
+              "ids": [
+                "6"
+              ],
+              "label": "Ado club",
+              "productsCount": 4,
+              "selected": false
+            }
+          ]
+        },
+        "order": 8
+      },
+      {
+        "title": "Type d'hébergement",
+        "limitDisplayed": 5,
+        "queryStringKey": "hostingTypeIds",
+        "filterType": "SelectBoxType",
+        "value": {
+          "selectItems": [
+            {
+              "label": "Toutes les offres",
+              "selected": false
+            },
+            {
+              "ids": [
+                "268"
+              ],
+              "label": "Fram Camping Club",
+              "selected": true
+            },
+            {
+              "ids": [
+                "267"
+              ],
+              "label": "Fram Résidence Club",
+              "selected": false
+            },
+            {
+              "ids": [
+                "240"
+              ],
+              "label": "Club Framissima",
+              "selected": false
+            }
+          ]
+        },
+        "order": 10
+      }
+    ]
+  },
+  "prevNext": {}
+}
